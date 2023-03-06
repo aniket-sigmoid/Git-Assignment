@@ -22,7 +22,7 @@ git push origin main
 git checkout -b feature-branch-1
 ```
 
-4. Add a commit to feature-1 branch
+4. Add a commit to feature-branch-1 
 
 ```
 git add .
